@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+wheels/
+*.egg-info
+*.log
+
+# Virtual environments
+.venv/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Generated vector-store artifacts
+faiss_index/
+
+# Jupyter-generated files
+.ipynb_checkpoints/

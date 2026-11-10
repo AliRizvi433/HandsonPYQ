@@ -1,0 +1,81 @@
+
+[
+  {
+    "name": "Emma Wilson",
+    "employee_id": "EMP101",
+    "employment_status": "Active",
+    "location": "Bangalore",
+    "pto_balance": 8,
+    "pto_details": {
+      "annual_leave_remaining": 5,
+      "sick_leave_remaining": 3,
+      "annual_leave_used": 13,
+      "sick_leave_used": 9
+    }
+  },
+  {
+    "name": "John Smith",
+    "employee_id": "EMP102",
+    "employment_status": "Active",
+    "location": "Hyderabad",
+    "pto_balance": 14,
+    "pto_details": {
+      "annual_leave_remaining": 10,
+      "sick_leave_remaining": 4,
+      "annual_leave_used": 8,
+      "sick_leave_used": 8
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "employee_id": "EMP103",
+    "employment_status": "Active",
+    "location": "Mumbai",
+    "pto_balance": 20,
+    "pto_details": {
+      "annual_leave_remaining": 12,
+      "sick_leave_remaining": 8,
+      "annual_leave_used": 6,
+      "sick_leave_used": 4
+    }
+  },
+  {
+    "name": "Rahul Verma",
+    "employee_id": "EMP104",
+    "employment_status": "On Leave",
+    "location": "Delhi",
+    "pto_balance": 6,
+    "pto_details": {
+      "annual_leave_remaining": 4,
+      "sick_leave_remaining": 2,
+      "annual_leave_used": 14,
+      "sick_leave_used": 10
+    }
+  },
+  {
+    "name": "Sarah Johnson",
+    "employee_id": "EMP105",
+    "employment_status": "Active",
+    "location": "Pune",
+    "pto_balance": 25,
+    "pto_details": {
+      "annual_leave_remaining": 15,
+      "sick_leave_remaining": 10,
+      "annual_leave_used": 3,
+      "sick_leave_used": 2
+    }
+  },
+  {
+    "name": "David Brown",
+    "employee_id": "EMP106",
+    "employment_status": "Inactive",
+    "location": "Chennai",
+    "pto_balance": 0,
+    "pto_details": {
+      "annual_leave_remaining": 0,
+      "sick_leave_remaining": 0,
+      "annual_leave_used": 18,
+      "sick_leave_used": 12
+    }
+  }
+]

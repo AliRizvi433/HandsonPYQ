@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "POL001",
+    "title": "Sick Leave Policy",
+    "category": "Leave",
+    "effective_year": 2026,
+    "description": "Full-time employees are entitled to 12 paid sick leave days per calendar year. Employees must notify their manager before their shift begins. A medical certificate is required for absences exceeding 3 consecutive days. Unused sick leave does not carry forward.",
+    "active": true
+  },
+  {
+    "id": "POL002",
+    "title": "Annual Leave Policy",
+    "category": "Leave",
+    "effective_year": 2026,
+    "description": "Full-time employees receive 18 days of paid annual leave per year. Leave requests must be submitted at least 7 days in advance. A maximum of 5 unused annual leave days may be carried forward to the next year.",
+    "active": true
+  },
+  {
+    "id": "POL003",
+    "title": "Work From Home Policy",
+    "category": "Remote Work",
+    "effective_year": 2026,
+    "description": "Eligible employees may work remotely up to 3 days per week with manager approval. Employees must remain available during standard working hours and comply with company information security requirements.",
+    "active": true
+  },
+  {
+    "id": "POL004",
+    "title": "Maternity Leave Policy",
+    "category": "Parental Leave",
+    "effective_year": 2026,
+    "description": "Eligible employees may receive up to 26 weeks of paid maternity leave, subject to applicable law and eligibility requirements. Employees should notify HR at least 8 weeks before the expected leave start date.",
+    "active": true
+  },
+  {
+    "id": "POL005",
+    "title": "Paternity Leave Policy",
+    "category": "Parental Leave",
+    "effective_year": 2026,
+    "description": "Eligible employees receive 10 working days of paid paternity leave. Leave should normally be taken within 6 months of the child's birth or adoption.",
+    "active": true
+  },
+  {
+    "id": "POL006",
+    "title": "Employee Attendance Policy",
+    "category": "Attendance",
+    "effective_year": 2026,
+    "description": "Employees must complete 8 working hours per day, excluding breaks. Standard office hours are 9 AM to 6 PM. Employees must record attendance through the approved attendance system.",
+    "active": true
+  },
+  {
+    "id": "POL007",
+    "title": "Health Insurance Policy",
+    "category": "Benefits",
+    "effective_year": 2026,
+    "description": "Full-time employees are eligible for company-sponsored health insurance with annual coverage up to INR 500000. Coverage may include eligible dependents according to the selected insurance plan.",
+    "active": true
+  },
+  {
+    "id": "POL008",
+    "title": "Probation Policy",
+    "category": "Employment",
+    "effective_year": 2026,
+    "description": "New employees undergo a probation period of 6 months. Performance is reviewed before confirmation. During probation, the notice period is 15 days.",
+    "active": true
+  },
+  {
+    "id": "POL009",
+    "title": "Employee Resignation Policy",
+    "category": "Employment",
+    "effective_year": 2026,
+    "description": "Confirmed employees must serve a notice period of 60 days when resigning. Employees must complete the handover process and return company assets before their final working day.",
+    "active": true
+  },
+  {
+    "id": "POL010",
+    "title": "Previous Annual Leave Policy",
+    "category": "Leave",
+    "effective_year": 2024,
+    "description": "Employees previously received 15 days of annual leave per year. This policy has been replaced by the Annual Leave Policy effective in 2026.",
+    "active": false
+  }
+]
